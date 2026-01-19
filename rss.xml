@@ -1,0 +1,34 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>RT en Español</title>
+        <link>https://actualidad.rt.com</link>
+        <description>RT en Español - Todas las noticias</description>
+        <language>es</language>
+        <copyright>RT en Español</copyright>
+        <image>
+            <url>https://actualidad.rt.com/static/img/rss/logo-rss.png</url>
+            <title>RT en Español</title>
+            <link>https://actualidad.rt.com</link>
+            <width>88</width>
+            <height>81</height>
+        </image>
+    <item>
+        <title>Test</title>
+        <link><![CDATA[https://actualidad.rt.com/viral/582587-video-hombre-destruye-auto-vecina]]></link>
+        <author>
+                            RT en Español
+                    </author>
+        <description>
+        	<![CDATA[ <img alt="Preview" style="float:left" src="" />
+        	 ]]>
+        </description>
+        <enclosure url="" type="image/jpeg"/>
+        <pubDate>Mon, 19 Jan 2026 14:54:42 +0000</pubDate>
+        <dc:creator>RT en Español</dc:creator>
+    </item>
+
+
+    </channel>
+</rss>

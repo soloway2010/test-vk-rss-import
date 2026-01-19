@@ -18,13 +18,9 @@
         <title>Test</title>
         <link><![CDATA[https://actualidad.rt.com/viral/582587-video-hombre-destruye-auto-vecina]]></link>
         <author>
-                            RT en Español
-                    </author>
-        <description>
-        	<![CDATA[ <img alt="Preview" style="float:left" src="" />
-        	 ]]>
-        </description>
-        <enclosure url="" type="image/jpeg"/>
+                RT en Español
+        </author>
+        <enclosure url="https://actualidad.rt.com/static/img/rss/logo-rss.png" type="image/jpeg"/>
         <pubDate>Mon, 19 Jan 2026 14:34:42 +0000</pubDate>
         <dc:creator>RT en Español</dc:creator>
     </item>

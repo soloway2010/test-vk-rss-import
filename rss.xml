@@ -16,15 +16,9 @@
         </image>
     <item>
         <title>Test</title>
-        <link><![CDATA[https://actualidad.rt.com/viral/582587-video-hombre-destruye-auto-vecina]]></link>
-        <author>
-                RT en Español
-        </author>
-        <enclosure url="https://actualidad.rt.com/static/img/rss/logo-rss.png" type="image/jpeg"/>
-        <pubDate>Mon, 19 Jan 2026 15:00:42 +0000</pubDate>
-        <dc:creator>RT en Español</dc:creator>
+        <link>https://actualidad.rt.com/viral/582587-video-hombre-destruye-auto-vecina</link>
+        <description><img src="https://actualidad.rt.com/static/img/rss/logo-rss.png" alt="Girl in a jacket" width="537" height="240"></description>
+        <pubDate>Mon, 20 Jan 2026 17:20:42 +0300</pubDate>
     </item>
-
-
     </channel>
 </rss>
